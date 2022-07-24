@@ -109,14 +109,16 @@ draft: false
 - 摆线：
 $$
 x=r\cdotp(t-\sin t)
-$$$$
+$$
+$$
 y=r\cdotp(1-\cos t)
 $$
 ![摆线](image/摆线.png)
 - 星形线:
 $$
 x=r\cdotp\cos^3 t
-$$$$
+$$
+$$
 y=r\cdotp\sin^3 t
 $$
 ![星形线](image/星形线.png)
